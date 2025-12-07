@@ -66,12 +66,9 @@ education:
   - area: MS in Engineering and Public Policy
     institution: Carnegie Mellon University
 #    icon: ""
-
   - area: Master of Business Administration
-
-
-- area: BS Mechanical Engineering
-- area: Nuclear Engineering Cert
+  - area: BS Mechanical Engineering
+  - area: Nuclear Engineering Cert
 
 
 
