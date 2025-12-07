@@ -15,9 +15,9 @@ sections:
       username: admin
       text: ''
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
+ #     button:
+ #       text: Download CV
+ #       url: uploads/resume.pdf
       headings:
         about: ''
         education: ''
@@ -37,11 +37,10 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My research bridges the gap between technical R&D and public policy to drive the transition to clean energy.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
+        I identify and solve complex problems across disciplines to enable innovation.
+    
     design:
       columns: '1'
   - block: collection
@@ -115,12 +114,5 @@ sections:
         Easily build anything with blocks - no-code required!
 
         From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
-      button:
-        text: Get Started
-        url: https://hugoblox.com/templates/
-    design:
-      card:
-        # Card background color (CSS class)
-        css_class: 'bg-primary-300 dark:bg-primary-700'
-        css_style: ''
+
 ---
