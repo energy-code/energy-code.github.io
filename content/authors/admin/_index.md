@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: Adam Stein, PhD
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+# name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Adam
+last_name: Stein
 
 # Pronouns (optional)
 pronouns: he/him
 
 # Status emoji
-status:
-  icon: 🚀
+status: 
+  icon: ⚛️
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,83 +23,57 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Interdisciplinary Innovation / Engineer / Researcher / Risk / Energy Technology and Policy
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: 
+    url: ""
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:adam@adamstein.info'
     label: E-mail Me
   - icon: brands/x
-    url: https://x.com/AlexAIResearch
-  - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://x.com/Dr_A_Stein
+#  - icon: brands/github
+#    url: https://github.com/energy-code
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/adammstein/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=XRAXnRgAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0002-4043-7499
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+- Innovation
+- Energy Systems
+- Risk
+- Regulatory design
+- Advanced Nuclear Energy
+- Decision Making Under Uncertainty 
+- Multidisciplinary and complex systems 
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
-    summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
+  - area: Driving Strategic Innovation Certificate
+    institution: University of Pennsylvania - Wharton
+  - area: PhD in Engineering and Public Policy
     institution: Carnegie Mellon University
-    icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
+#    icon: ""
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
+  - area: MS in Engineering and Public Policy
+    institution: Carnegie Mellon University
+#    icon: ""
 
-      Minored in Mathematics. President of AI Club.
+  - area: Master of Business Administration
 
-work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
-    icon: ''
-    date_start: 2020-01-01
-    date_end: ''
-    summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+
+- area: BS Mechanical Engineering
+- area: Nuclear Engineering Cert
+
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -122,7 +96,7 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
+      - name: 
         description: ''
         percent: 80
         icon: person-simple-walk
@@ -138,35 +112,28 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Spanish
-    percent: 50
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Best Paper Award
+# awards:
+#  - title: Best Paper Award
     url: https://neurips.cc/
     date: '2022-12-01'
     awarder: NeurIPS
     icon: hero/trophy
     summary: |
       Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
+
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+
+Adam is a recognized leader in the clean energy transition, dedicated to advancing nuclear innovation and minimizing environmental impact.
+
+As the Director of Nuclear Energy Innovation at the Breakthrough Institute, Adam leads high-stakes research and policy strategy. With over 20 years of R&D experience, he specializes in navigating complex problems at the intersection of technology, business, and public policy. A regular voice in the media, Adam is a trusted expert on nuclear energy and risk regulation.
+
+Adam holds a Ph.D. in Engineering and Public Policy from Carnegie Mellon University, an MBA, and degrees in both mechanical and nuclear engineering.
+
+Beyond the energy sector, Adam serves his community as an emergency first responder, an assistant band director for a local school district, and an editorial board member for Case Studies in the Environment.
