@@ -77,37 +77,34 @@ education:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python & PyTorch
-        description: ''
-        percent: 95
-        icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
-        percent: 85
-        icon: cloud
+#skills:
+#  - name: Technical Skills
+#    items:
+#      - name: Python & PyTorch
+#        description: ''
+#        percent: 95
+#        icon: code-bracket
+#      - name: Machine Learning
+#        description: ''
+ #       percent: 100
+#        icon: chart-bar
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: 
+      - name: Percussion
         description: ''
         percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
+        icon: drum
+      - name: 3D Printing
         description: ''
-        percent: 90
+        percent: 60
         icon: cpu-chip
-      - name: Sci-Fi Reading
+      - name: Pets
         description: ''
-        percent: 70
-        icon: book-open
+        percent: 100
+        icon: dog
 
 languages:
   - name: English
@@ -120,12 +117,12 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 # awards:
 #  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
+#    url: https://neurips.cc/
+#    date: '2022-12-01'
+#    awarder: NeurIPS
+#    icon: hero/trophy
+#    summary: |
+#      Awarded for groundbreaking work on efficient training of large models.
 
 ---
 
